@@ -1,4 +1,5 @@
 # Early-Fire-Detection
+Because the size of dataset was large we would like to share dataset through Google Drive. 
 Steps to execute the code:
 Step 1 - Open Early_Fire_Detection.ipynb file on Google Colab.
 Step 2 - Upload dataset on your Google Drive.
